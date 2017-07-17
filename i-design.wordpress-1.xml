@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.8" created="2017-07-17 16:47" -->
+<!-- generator="WordPress/4.8" created="2017-07-17 17:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>i-design</title>
 	<link>http://localhost/tx-demos/i-design</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Mon, 17 Jul 2017 16:47:19 +0000</pubDate>
+	<pubDate>Mon, 17 Jul 2017 17:32:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/tx-demos/i-design</wp:base_site_url>
@@ -367,7 +367,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/1.jpg]]></wp:meta_value>
@@ -398,7 +398,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/2.jpg]]></wp:meta_value>
@@ -429,7 +429,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/8.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/8.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/8.jpg]]></wp:meta_value>
@@ -460,7 +460,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/33.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/33.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/33.jpg]]></wp:meta_value>
@@ -491,7 +491,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/44.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/44.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/44.jpg]]></wp:meta_value>
@@ -522,7 +522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/01/12.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/01/12.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/12.jpg]]></wp:meta_value>
@@ -553,7 +553,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/01/17.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/01/17.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/17.jpg]]></wp:meta_value>
@@ -584,7 +584,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/1601285.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/1601285.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/1601285.jpg]]></wp:meta_value>
@@ -615,7 +615,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/cute-asian-girl-21437.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/cute-asian-girl-21437.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/cute-asian-girl-21437.jpg]]></wp:meta_value>
@@ -646,7 +646,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/hs1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/hs1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/hs1.jpg]]></wp:meta_value>
@@ -677,7 +677,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/12/hs5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/12/hs5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/hs5.jpg]]></wp:meta_value>
@@ -708,7 +708,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/i-create-logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/i-create-logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo.png]]></wp:meta_value>
@@ -739,7 +739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/i-create-logo1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/i-create-logo1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo1.png]]></wp:meta_value>
@@ -770,7 +770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/pat9.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/pat9.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/pat9.png]]></wp:meta_value>
@@ -801,7 +801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/patt1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/patt1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt1.png]]></wp:meta_value>
@@ -832,7 +832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/patt2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/patt2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt2.png]]></wp:meta_value>
@@ -863,7 +863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/patt10.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/patt10.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/patt10.png]]></wp:meta_value>
@@ -894,7 +894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/i-create-logo-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/i-create-logo-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo-2.png]]></wp:meta_value>
@@ -925,7 +925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/i-create-logo-5.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/i-create-logo-5.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/i-create-logo-5.png]]></wp:meta_value>
@@ -956,7 +956,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/screen-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/screen-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/screen-1.png]]></wp:meta_value>
@@ -987,7 +987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/01/orange-juice-569064_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/01/orange-juice-569064_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/orange-juice-569064_1920.jpg]]></wp:meta_value>
@@ -1018,7 +1018,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/01/model-600225_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/01/model-600225_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/01/model-600225_1280.jpg]]></wp:meta_value>
@@ -1049,7 +1049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/03/screen.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/03/screen.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/03/screen.jpg]]></wp:meta_value>
@@ -1080,7 +1080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/03/screen-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/03/screen-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/03/screen-2.jpg]]></wp:meta_value>
@@ -1111,7 +1111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/02/i-spirit-banner-9.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/02/i-spirit-banner-9.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/i-spirit-banner-9.png]]></wp:meta_value>
@@ -1142,7 +1142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/02/mock-1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/02/mock-1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/mock-1.png]]></wp:meta_value>
@@ -1173,7 +1173,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/promo-itransform.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/promo-itransform.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/promo-itransform.png]]></wp:meta_value>
@@ -1204,7 +1204,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/up-arr.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/up-arr.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/up-arr.png]]></wp:meta_value>
@@ -1235,7 +1235,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/up-arr-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/up-arr-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/up-arr-2.png]]></wp:meta_value>
@@ -1266,7 +1266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2014/02/mock-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2014/02/mock-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/mock-1.jpg]]></wp:meta_value>
@@ -1297,7 +1297,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides1.jpg]]></wp:meta_value>
@@ -1328,7 +1328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides2.jpg]]></wp:meta_value>
@@ -1359,7 +1359,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides3.jpg]]></wp:meta_value>
@@ -1390,7 +1390,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides4.jpg]]></wp:meta_value>
@@ -1421,7 +1421,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides5.jpg]]></wp:meta_value>
@@ -1452,7 +1452,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/04/slides5b.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/04/slides5b.jpg]]></wp:meta_value>
@@ -1483,7 +1483,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/01/cropped-i-create-logo-2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/01/cropped-i-create-logo-2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/01/cropped-i-create-logo-2.png]]></wp:meta_value>
@@ -1522,7 +1522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/favicon.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/favicon.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/favicon.png]]></wp:meta_value>
@@ -1553,7 +1553,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/apple-841169_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/apple-841169_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/apple-841169_1920.jpg]]></wp:meta_value>
@@ -1584,7 +1584,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/book-841171_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/book-841171_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/book-841171_1920.jpg]]></wp:meta_value>
@@ -1615,7 +1615,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/business-1067978_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/business-1067978_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/business-1067978_1920.jpg]]></wp:meta_value>
@@ -1646,7 +1646,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/gifts-570821_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/gifts-570821_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/gifts-570821_1920.jpg]]></wp:meta_value>
@@ -1677,7 +1677,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/girl-200883_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/girl-200883_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-200883_1280.jpg]]></wp:meta_value>
@@ -1708,7 +1708,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/girl-447708_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/girl-447708_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-447708_1920.jpg]]></wp:meta_value>
@@ -1739,7 +1739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/girl-1252739_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/girl-1252739_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1252739_1920.jpg]]></wp:meta_value>
@@ -1770,7 +1770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/girl-1302707_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/girl-1302707_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1302707_1920.jpg]]></wp:meta_value>
@@ -1801,7 +1801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/girl-1312954_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/girl-1312954_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl-1312954_1920.jpg]]></wp:meta_value>
@@ -1832,7 +1832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/guitar-944261_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/guitar-944261_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/guitar-944261_1920.jpg]]></wp:meta_value>
@@ -1863,7 +1863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/guitar-1139397_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/guitar-1139397_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/guitar-1139397_1920.jpg]]></wp:meta_value>
@@ -1894,7 +1894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/heart-762564_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/heart-762564_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/heart-762564_1920.jpg]]></wp:meta_value>
@@ -1925,7 +1925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/imac-606765_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/imac-606765_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/imac-606765_1920.jpg]]></wp:meta_value>
@@ -1956,7 +1956,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/macbook-606763_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/macbook-606763_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/macbook-606763_1920.jpg]]></wp:meta_value>
@@ -1987,7 +1987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/mobile-605422_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/mobile-605422_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/mobile-605422_1920.jpg]]></wp:meta_value>
@@ -2018,7 +2018,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/patient-841165_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/patient-841165_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/patient-841165_1920.jpg]]></wp:meta_value>
@@ -2049,7 +2049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/tablet-843798_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/tablet-843798_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/tablet-843798_1920.jpg]]></wp:meta_value>
@@ -2080,7 +2080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/turntable-1337986_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/turntable-1337986_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/turntable-1337986_1280.jpg]]></wp:meta_value>
@@ -2111,7 +2111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2015/02/woman-977020_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2015/02/woman-977020_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/woman-977020_1920.jpg]]></wp:meta_value>
@@ -2142,7 +2142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/animals-1867018.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/animals-1867018.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/animals-1867018.jpg]]></wp:meta_value>
@@ -2173,7 +2173,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/asia-1807528_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/asia-1807528_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/asia-1807528_1920.jpg]]></wp:meta_value>
@@ -2204,7 +2204,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/asia-1807531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/asia-1807531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/asia-1807531_1920.jpg]]></wp:meta_value>
@@ -2219,7 +2219,7 @@
 		<link>http://localhost/tx-demos/i-design/one-click-demo-import-log_file_2017-06-27__05-11-46/</link>
 		<pubDate>Tue, 27 Jun 2017 05:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/log_file_2017-06-27__05-11-46.txt</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/log_file_2017-06-27__05-11-46.txt</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2235,98 +2235,10 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/log_file_2017-06-27__05-11-46.txt]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/log_file_2017-06-27__05-11-46.txt]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/log_file_2017-06-27__05-11-46.txt]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Vel Gravida Nulla</title>
-		<link>http://localhost/tx-demos/i-design/?itrans-slider=vel-gravida-nulla</link>
-		<pubDate>Wed, 11 Feb 2015 06:16:51 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?post_type=itrans-slider&#038;p=674</guid>
-		<description></description>
-		<content:encoded><![CDATA[Suspendisse nec scelerisque neque, vel gravida nulla. Maecenas vestibulum ultricies efficitur. Duis consequat congue ex nec efficitur. Etiam est sapien, fermentum a dapibus in, iaculis mollis ligula. Curabitur id felis ut leo blandit tempor nec id lorem. Fusce sed sem neque. Mauris sed malesuada orci, sit amet fringilla urna. Aenean at nisl id felis sodales consectetur.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>805</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-11 06:16:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-11 06:16:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vel-gravida-nulla]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[itrans-slider]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="itrans-slider-category" nicename="food"><![CDATA[Food]]></category>
-		<category domain="itrans-slider-category" nicename="health"><![CDATA[Health]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1046]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Vlandit Tempor Nec Eid</title>
-		<link>http://localhost/tx-demos/i-design/?itrans-slider=vlandit-tempor-nec-eid</link>
-		<pubDate>Wed, 11 Feb 2015 06:18:07 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?post_type=itrans-slider&#038;p=675</guid>
-		<description></description>
-		<content:encoded><![CDATA[Suspendisse nec scelerisque neque, vel gravida nulla. Maecenas vestibulum ultricies efficitur. Duis consequat congue ex nec efficitur. Etiam est sapien, fermentum a dapibus in, iaculis mollis ligula. Curabitur id felis ut leo blandit tempor nec id lorem. Fusce sed sem neque. Mauris sed malesuada orci, sit amet fringilla urna. Aenean at nisl id felis sodales consectetur.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>973</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-11 06:18:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-11 06:18:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vlandit-tempor-nec-eid]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[itrans-slider]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="itrans-slider-category" nicename="food"><![CDATA[Food]]></category>
-		<category domain="itrans-slider-category" nicename="health"><![CDATA[Health]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1050]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2350,7 +2262,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/beach-1850197_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/beach-1850197_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beach-1850197_1920.jpg]]></wp:meta_value>
@@ -2381,7 +2293,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/beautiful-1868701_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/beautiful-1868701_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-1868701_1920.jpg]]></wp:meta_value>
@@ -2412,7 +2324,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/beautiful-girl-2003650_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-girl-2003650_1920.jpg]]></wp:meta_value>
@@ -2443,7 +2355,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/beautiful-girl-looking-away-1995531_1920.jpg]]></wp:meta_value>
@@ -2474,7 +2386,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/bikini-1807461_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/bikini-1807461_1920-1.jpg]]></wp:meta_value>
@@ -2505,7 +2417,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/child-1245893.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/child-1245893.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/child-1245893.jpg]]></wp:meta_value>
@@ -2536,7 +2448,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/engagement-1718244_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/engagement-1718244_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/engagement-1718244_1920.jpg]]></wp:meta_value>
@@ -2567,7 +2479,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/fashion-1063100_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/fashion-1063100_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/fashion-1063100_1920.jpg]]></wp:meta_value>
@@ -2598,7 +2510,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/freelancer-763730_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/freelancer-763730_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/freelancer-763730_1920.jpg]]></wp:meta_value>
@@ -2629,7 +2541,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/itaparica-1829695_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/itaparica-1829695_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/itaparica-1829695_1920.jpg]]></wp:meta_value>
@@ -2660,7 +2572,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/kids-1966202_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/kids-1966202_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/kids-1966202_1920.jpg]]></wp:meta_value>
@@ -2691,7 +2603,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/water-747618_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/water-747618_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/water-747618_1920.jpg]]></wp:meta_value>
@@ -2722,7 +2634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/woman-828886_1920-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/woman-828886_1920-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/woman-828886_1920-1.jpg]]></wp:meta_value>
@@ -2753,7 +2665,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/one-sided-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/one-sided-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/one-sided-3.jpg]]></wp:meta_value>
@@ -2768,7 +2680,7 @@
 		<link>http://localhost/tx-demos/i-design/i-design-normal/</link>
 		<pubDate>Tue, 27 Jun 2017 09:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/i-design-normal.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/i-design-normal.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2784,7 +2696,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/i-design-normal.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/i-design-normal.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/i-design-normal.png]]></wp:meta_value>
@@ -2799,7 +2711,7 @@
 		<link>http://localhost/tx-demos/i-design/i-design-reverse/</link>
 		<pubDate>Tue, 27 Jun 2017 09:57:01 +0000</pubDate>
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/i-design-reverse.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/i-design-reverse.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2815,7 +2727,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/i-design-reverse.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/06/i-design-reverse.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/i-design-reverse.png]]></wp:meta_value>
@@ -2832,184 +2744,7 @@
 		<dc:creator><![CDATA[demoadmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/tx-demos/i-design/2017/07/16/i-design/</guid>
 		<description></description>
-		<content:encoded><![CDATA[.pb-home .site-header .headerinnerwrap a.home-link > span > img {
-	display: none;
-}
-
-.pb-home .site-header .headerinnerwrap a.home-link > span {
-	display: block;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	background-image: url( 'http://templatesnext.org/downloads/others/i-design-logo-green-rev.png' );
-	background-repeat: no-repeat;
-	padding-left: 280px;
-	background-position: 0px 12px;
-}
-
-.pb-home .site-header.fixeddiv .headerinnerwrap a.home-link > span {
-	background-image: url( 'http://templatesnext.org/downloads/others/i-design-logo-green-nor.png' );	
-	background-position: 0px 6px;
-	background-size: auto 52px;	
-}
-
-.pb-home .utilitybar.colored-bg {
-	background-color: #b1d235;
-}
-
-.pb-home .nav-container li:hover > a, 
-.pb-home .nav-container li a:hover {
-	color: #b1d235;	
-}
-
-.pb-home .nav-container .sub-menu,
-.pb-home .nav-container .children {
-	border-top: 2px solid #b1d235;
-	border-bottom-color: #b1d235;	
-}
-
-.pb-home .tx-slider .owl-controls .owl-buttons .owl-next, 
-.pb-home .tx-slider .owl-controls .owl-buttons .owl-prev {
-	background-color: #b1d235;
-}
-
-.pb-home .site-footer .widget-area .widget input[type="submit"], 
-.pb-home .site .tx-slider .tx-slide-button a, 
-.pb-home .ibanner .da-slider .owl-item.active .da-link {
-	background-color: #b1d235;
-	color: #ffffff;
-}
-
-.pb-home .utilitybar.colored-bg,
-.pb-home .tx-slider .owl-pagination .owl-page > span {
-	border-color: #b1d235;
-
-}
-
-.pb-home .tx-slider .owl-pagination .owl-page.active > span {
-	background-color: #b1d235;
-}
-
-.pb-home .tx-service-icon span  {
-	border-color: #e7e7e7;
-}
-
-.pb-home .tx-service:hover .tx-service-icon span  {
-	border-color: #b1d235;
-}
-
-.pb-home .tx-service .tx-service-icon span {
-	background-color: #b1d235;
-}
-
-.pb-home .tx-service:hover .tx-service-icon span {
-	background-color: #fff;
-}
-
-.pb-home .tx-service .tx-service-icon span i {
-	color: #fff;
-}
-
-.pb-home .tx-service:hover .tx-service-icon span i {
-	color: #b1d235;
-}
-
-.pb-home .iheader, 
-.pb-home .format-status {
-	background-color: #b1d235;
-}
-
-.pb-home .widget a:hover {
-	color: #b1d235;
-}
-
-.pb-home .blog-columns .comments-link a:hover, 
-.pb-home .utilitybar.colored-bg .socialicons ul.social li a:hover .socico {
- 	color: #b1d235;
-}
-
-/* Line 102 */
-.pb-home .entry-meta a, 
-.pb-home .entry-content a, 
-.pb-home .comment-content a, 
-.pb-home .entry-content a:visited {
-	color: #b1d235;
-}
-
-/* Line 102 */
-.pb-home .comment-author .fn, 
-.pb-home .comment-author .url, 
-.pb-home .comment-reply-link, 
-.pb-home .comment-reply-login, 
-.pb-home .comment-body .reply a, 
-.pb-home .widget a:hover {
-	color: #b1d235;
-}
-
-.pb-home .widget a:hover, 
-.pb-home .entry-header h1.entry-title a:hover, 
-.pb-home .error404 .page-title::before, 
-.pb-home .tx-service-icon span i, 
-.pb-home .tx-post-comm::after {
-	color: #b1d235;
-}
-
-.pb-home button, 
-.pb-home input[type="submit"], 
-.pb-home input[type="button"], 
-.pb-home input[type="reset"], 
-.pb-home .nav-container .current_page_item > a > span, 
-.pb-home .nav-container .current_page_ancestor > a > span, 
-.pb-home .nav-container .current-menu-item > a span, 
-.pb-home .nav-container .current-menu-ancestor > a > span, 
-.pb-home .nav-container li a:hover span {
-	background-color: #b1d235;
-}
-
-.pb-home .colored-drop .nav-container ul ul a, 
-.pb-home .colored-drop ul.nav-container ul a, 
-.pb-home .colored-drop ul.nav-container ul, 
-.pb-home .colored-drop .nav-container ul ul {
-	background-color: #b1d235;	
-}
-
-.pb-home .colored-drop .nav-container ul ul a:hover, 
-.pb-home .colored-drop ul.nav-container ul a:hover, 
-.pb-home .colored-drop ul.nav-container ul:hover, 
-.pb-home .colored-drop .nav-container ul ul:hover {
-	background-color: #333;	
-}
-
-.pb-home .site-footer div.widget-area .widget a:hover, 
-.pb-home .site-header:not(.fixeddiv) .nav-container .nav-menu > li > a:hover {
-	bcolor: #b1d235;	
-}
-
-
-.pb-home .sticky-popup .popup-header {
-	background-color: #b1d235;
-	border-color: #b1d235;
-}
-
-.pb-home .owl-item .tx-slide-title {
-	text-transform: uppercase;
-}
-
-.pb-home .nx-ispload,
-.pb-home .tx-slider-img,
-.pb-home .nx-ispload-wrap {
-	background-color: #b1d235;	
-}
-.pb-home .nx-ispload {
-	background-color: #b1d235!important;		
-}
-
-.pb-home .headerwrap .main-navigation .nav-container ul.nav-menu > li:hover > a {
-	color: #b1d235;	
-}
-.pb-home .headerwrap .main-navigation .nav-container ul.nav-menu > li > ul li:hover a {
-	background-color: #b1d235;	
-}
-]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1099</wp:post_id>
 		<wp:post_date><![CDATA[2017-07-16 18:39:39]]></wp:post_date>
@@ -3023,6 +2758,68 @@
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>i-design-logo-green-nor</title>
+		<link>http://localhost/tx-demos/i-design/i-design-logo-green-nor/</link>
+		<pubDate>Mon, 17 Jul 2017 16:52:50 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/07/i-design-logo-green-nor.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1166</wp:post_id>
+		<wp:post_date><![CDATA[2017-07-17 16:52:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-07-17 16:52:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[i-design-logo-green-nor]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/07/i-design-logo-green-nor.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/i-design-logo-green-nor.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:286;s:6:"height";i:64;s:4:"file";s:35:"2017/07/i-design-logo-green-nor.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"i-design-logo-green-nor-150x64.png";s:5:"width";i:150;s:6:"height";i:64;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:34:"i-design-logo-green-nor-272x64.png";s:5:"width";i:272;s:6:"height";i:64;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>i-design-logo-green-rev</title>
+		<link>http://localhost/tx-demos/i-design/i-design-logo-green-rev/</link>
+		<pubDate>Mon, 17 Jul 2017 16:52:53 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/07/i-design-logo-green-rev.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1167</wp:post_id>
+		<wp:post_date><![CDATA[2017-07-17 16:52:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-07-17 16:52:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[i-design-logo-green-rev]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2017/07/i-design-logo-green-rev.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/i-design-logo-green-rev.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:286;s:6:"height";i:64;s:4:"file";s:35:"2017/07/i-design-logo-green-rev.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"i-design-logo-green-rev-150x64.png";s:5:"width";i:150;s:6:"height";i:64;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:34:"i-design-logo-green-rev-272x64.png";s:5:"width";i:272;s:6:"height";i:64;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sed Ut Perspiciatis Unde</title>
@@ -3210,6 +3007,50 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1055]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Vel Gravida Nulla</title>
+		<link>http://localhost/tx-demos/i-design/?itrans-slider=vel-gravida-nulla</link>
+		<pubDate>Wed, 11 Feb 2015 06:16:51 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?post_type=itrans-slider&#038;p=674</guid>
+		<description></description>
+		<content:encoded><![CDATA[Suspendisse nec scelerisque neque, vel gravida nulla. Maecenas vestibulum ultricies efficitur. Duis consequat congue ex nec efficitur. Etiam est sapien, fermentum a dapibus in, iaculis mollis ligula. Curabitur id felis ut leo blandit tempor nec id lorem. Fusce sed sem neque. Mauris sed malesuada orci, sit amet fringilla urna. Aenean at nisl id felis sodales consectetur.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>805</wp:post_id>
+		<wp:post_date><![CDATA[2015-02-11 06:16:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-11 06:16:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vel-gravida-nulla]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[itrans-slider]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="itrans-slider-category" nicename="food"><![CDATA[Food]]></category>
+		<category domain="itrans-slider-category" nicename="health"><![CDATA[Health]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1046]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3517,6 +3358,50 @@ b. Setup your theme color, logo, layout etc.]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[step-5-customize-theme-options]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Vlandit Tempor Nec Eid</title>
+		<link>http://localhost/tx-demos/i-design/?itrans-slider=vlandit-tempor-nec-eid</link>
+		<pubDate>Wed, 11 Feb 2015 06:18:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?post_type=itrans-slider&#038;p=675</guid>
+		<description></description>
+		<content:encoded><![CDATA[Suspendisse nec scelerisque neque, vel gravida nulla. Maecenas vestibulum ultricies efficitur. Duis consequat congue ex nec efficitur. Etiam est sapien, fermentum a dapibus in, iaculis mollis ligula. Curabitur id felis ut leo blandit tempor nec id lorem. Fusce sed sem neque. Mauris sed malesuada orci, sit amet fringilla urna. Aenean at nisl id felis sodales consectetur.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>973</wp:post_id>
+		<wp:post_date><![CDATA[2015-02-11 06:18:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-11 06:18:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vlandit-tempor-nec-eid]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[itrans-slider]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="itrans-slider-category" nicename="food"><![CDATA[Food]]></category>
+		<category domain="itrans-slider-category" nicename="health"><![CDATA[Health]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_text]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Know More...]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[tx_slide_link_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://www.google.com/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1050]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3955,6 +3840,62 @@ b. Setup your theme color, logo, layout etc.]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>About Us</title>
+		<link>http://localhost/tx-demos/i-design/about-us/</link>
+		<pubDate>Fri, 27 Dec 2013 17:05:39 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum risus quis consectetur interdum. Ut quis felis rutrum, imperdiet nunc vel, adipiscing ligula. Nunc nisl mi, ultrices vitae molestie id, laoreet ut justo. Ut interdum sem nisl, vel blandit odio tristique id. Vivamus et elementum felis. Vivamus ut urna risus. Ut vitae congue nibh, ac suscipit quam. Nulla bibendum, lacus vitae vestibulum porta, ipsum dolor laoreet arcu, sed eleifend mi erat non ante. Cras at volutpat nisi, sit amet commodo nunc. Aliquam ac tempor sapien.
+
+<a href="http://localhost/wordpress/wp-content/uploads/2013/12/9692_1920x1200.jpg"><img class="alignleft size-thumbnail wp-image-95" alt="9692_1920x1200" src="http://localhost/wordpress/wp-content/uploads/2013/12/9692_1920x1200-150x150.jpg" width="150" height="150" /></a>Duis egestas augue eget dolor fermentum luctus. Aliquam erat volutpat. Integer et sem vel libero pellentesque sagittis. Nulla porta lacus et ultricies iaculis. Curabitur non massa accumsan odio blandit consequat. Sed iaculis fermentum sagittis. In eros risus, molestie vitae velit fermentum, sagittis lacinia enim. Phasellus aliquet nibh nibh, nec scelerisque nisi ullamcorper vel. Vestibulum nec elit quis elit faucibus volutpat in in lorem.
+
+In sodales euismod leo, eget varius magna dignissim at. Maecenas consectetur imperdiet elit non ullamcorper. Phasellus in sollicitudin justo. Aliquam egestas nunc dui, porta elementum mi vehicula nec. Ut porttitor turpis in lectus rutrum molestie. Curabitur faucibus varius diam eget facilisis. Vestibulum hendrerit eleifend arcu vitae lobortis. Donec sem sem, sodales ac odio vel, gravida volutpat urna. Curabitur non dignissim orci. Praesent fringilla rutrum aliquet. Morbi tempor erat sit amet orci pharetra dignissim. Donec id lorem sapien. Duis quis eros sed nisi viverra ornare sit amet eget sapien. Praesent adipiscing vestibulum risus, at sodales mi laoreet vel.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2013-12-27 17:05:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2013-12-27 17:05:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Title Column Shortcode</title>
+		<link>http://localhost/tx-demos/i-design/?page_id=539</link>
+		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?page_id=539</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>539</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-25 13:19:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
 		<title></title>
 		<link>http://localhost/tx-demos/i-design/2016/08/22/993/</link>
 		<pubDate>Mon, 22 Aug 2016 09:49:00 +0000</pubDate>
@@ -4063,181 +4004,6 @@ b. Setup your theme color, logo, layout etc.]]></content:encoded>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>About Us</title>
-		<link>http://localhost/tx-demos/i-design/about-us/</link>
-		<pubDate>Fri, 27 Dec 2013 17:05:39 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=69</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum risus quis consectetur interdum. Ut quis felis rutrum, imperdiet nunc vel, adipiscing ligula. Nunc nisl mi, ultrices vitae molestie id, laoreet ut justo. Ut interdum sem nisl, vel blandit odio tristique id. Vivamus et elementum felis. Vivamus ut urna risus. Ut vitae congue nibh, ac suscipit quam. Nulla bibendum, lacus vitae vestibulum porta, ipsum dolor laoreet arcu, sed eleifend mi erat non ante. Cras at volutpat nisi, sit amet commodo nunc. Aliquam ac tempor sapien.
-
-<a href="http://localhost/wordpress/wp-content/uploads/2013/12/9692_1920x1200.jpg"><img class="alignleft size-thumbnail wp-image-95" alt="9692_1920x1200" src="http://localhost/wordpress/wp-content/uploads/2013/12/9692_1920x1200-150x150.jpg" width="150" height="150" /></a>Duis egestas augue eget dolor fermentum luctus. Aliquam erat volutpat. Integer et sem vel libero pellentesque sagittis. Nulla porta lacus et ultricies iaculis. Curabitur non massa accumsan odio blandit consequat. Sed iaculis fermentum sagittis. In eros risus, molestie vitae velit fermentum, sagittis lacinia enim. Phasellus aliquet nibh nibh, nec scelerisque nisi ullamcorper vel. Vestibulum nec elit quis elit faucibus volutpat in in lorem.
-
-In sodales euismod leo, eget varius magna dignissim at. Maecenas consectetur imperdiet elit non ullamcorper. Phasellus in sollicitudin justo. Aliquam egestas nunc dui, porta elementum mi vehicula nec. Ut porttitor turpis in lectus rutrum molestie. Curabitur faucibus varius diam eget facilisis. Vestibulum hendrerit eleifend arcu vitae lobortis. Donec sem sem, sodales ac odio vel, gravida volutpat urna. Curabitur non dignissim orci. Praesent fringilla rutrum aliquet. Morbi tempor erat sit amet orci pharetra dignissim. Donec id lorem sapien. Duis quis eros sed nisi viverra ornare sit amet eget sapien. Praesent adipiscing vestibulum risus, at sodales mi laoreet vel.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2013-12-27 17:05:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2013-12-27 17:05:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>News and Events</title>
-		<link>http://localhost/tx-demos/i-design/about-us/news-and-events/</link>
-		<pubDate>Sat, 28 Dec 2013 16:32:18 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=108</guid>
-		<description></description>
-		<content:encoded><![CDATA[Default Template
-
-There’s no disguising it. Lamborghini’s all-new Huracan is a very angry car. It looks angry, its stance is angry, every line is like a slash from Surgeons Gone Wild and it’s even named after a bull so angry that it couldn’t be killed.
-
-The replacement for the long-serving Gallardo will hit the Geneva Motor Show in March next year with every muscle tautened to battle stations, claiming Ferrari-bashing acceleration and power numbers.
-
-It might be all new, but it retains plenty of Gallardo hallmarks, including a 5.2-litre, V10 engine mounted behind the driver’s ear and punching through all four wheels.
-
-Lamborghini claims the Huracan will smash past 100km/h in 3.2 seconds and will explode from zero to 200km/h in less than 10 seconds. The top speed is claimed to be on the far side of 325km/h, though Lamborghini isn’t saying just how far beyond the Ferrari 458’s vMax benchmark that might be. It just is, apparently.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>108</wp:post_id>
-		<wp:post_date><![CDATA[2013-12-28 16:32:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2013-12-28 16:32:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[news-and-events]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>69</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Testimonials</title>
-		<link>http://localhost/tx-demos/i-design/about-us/testimonials/</link>
-		<pubDate>Sat, 28 Dec 2013 16:35:32 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=110</guid>
-		<description></description>
-		<content:encoded><![CDATA[Last week MSN Cars went to visit SEAT at its major base of operations – the Martorell factory in Spain. Here we spoke to CEO Juergen Stackmann and executive vice president for research and design Dr. Matthias Rabe about the brand’s future model plans.
-
-Chief amongst these plans is SEAT’s desire to build an SUV – following on from the Tribu concept of 2007 (pictured above), this much touted project has suffered numerous delays and production ‘freezes’ and still isn’t signed off at this stage. But we were shown a brand new full-scale model during our visit, completed just two weeks ago.
-Blog Full Content
-
-See pictures of SEAT SUV prototypes New 2014 Nissan Qashqai revealed in pictures Alongside the SUV, we were also shown preview versions of the SEAT Leon Cupra five-door hot hatch that will debut at the Geneva Motor Show 2014, and the SEAT Lean ST X-perience, an off-road orientated version of the Leon estate that will debut at the Paris Motor Show 2014.
-
-Sadly, such was the hush-hush nature of the meeting we weren’t allow to take any pictures – but we can report what we were shown and told, and you can expect to see the first details of the new cars in the new year.
-
-Is SEAT going to build an SUV? It’s clear that SEAT really, really wants to build an SUV. Stackmann and Rabe believe that a 4x4 is a perfect fit for the company, and will help drive its expansion. SEAT is already the most youthful brand in the Volkswagen Group portfolio, and a fun-to-drive off-roader would only enhance this image.
-
-However, it is also clear that at this stage the SEAT SUV project still hasn’t been given the green light – though a decision is imminent. What will the SEAT SUV be called?
-
-There’s no word on an official name for the SEAT SUV yet, which is hardly surprising given that the project is still in limbo at present. The two-week-old full-size styling model shown to us was labelled Tribu and SE376 (an internal reference designation), with PR2 W50 in smaller text.
-
-But we are assured it won’t be called the Tribu in production, and in truth the model looks closer (though nowhere near identical) to the IBX concept of 2011, rather than the Tribu of 2007. Nor will it make any kind of reference to the Leon name, even though the off-roader will be based on the same underlying VW Group ‘MQB’ platform as the]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date><![CDATA[2013-12-28 16:35:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2013-12-28 16:35:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[testimonials]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>69</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Title Column Shortcode</title>
-		<link>http://localhost/tx-demos/i-design/?page_id=539</link>
-		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://www.templatesnext.org/icreate/?page_id=539</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>539</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-25 13:19:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 	<item>
 		<title></title>
@@ -5117,6 +4883,125 @@ But we are assured it won’t be called the Tribu in production, and in truth th
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>News and Events</title>
+		<link>http://localhost/tx-demos/i-design/about-us/news-and-events/</link>
+		<pubDate>Sat, 28 Dec 2013 16:32:18 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=108</guid>
+		<description></description>
+		<content:encoded><![CDATA[Default Template
+
+There’s no disguising it. Lamborghini’s all-new Huracan is a very angry car. It looks angry, its stance is angry, every line is like a slash from Surgeons Gone Wild and it’s even named after a bull so angry that it couldn’t be killed.
+
+The replacement for the long-serving Gallardo will hit the Geneva Motor Show in March next year with every muscle tautened to battle stations, claiming Ferrari-bashing acceleration and power numbers.
+
+It might be all new, but it retains plenty of Gallardo hallmarks, including a 5.2-litre, V10 engine mounted behind the driver’s ear and punching through all four wheels.
+
+Lamborghini claims the Huracan will smash past 100km/h in 3.2 seconds and will explode from zero to 200km/h in less than 10 seconds. The top speed is claimed to be on the far side of 325km/h, though Lamborghini isn’t saying just how far beyond the Ferrari 458’s vMax benchmark that might be. It just is, apparently.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date><![CDATA[2013-12-28 16:32:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2013-12-28 16:32:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[news-and-events]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>69</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Testimonials</title>
+		<link>http://localhost/tx-demos/i-design/about-us/testimonials/</link>
+		<pubDate>Sat, 28 Dec 2013 16:35:32 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?page_id=110</guid>
+		<description></description>
+		<content:encoded><![CDATA[Last week MSN Cars went to visit SEAT at its major base of operations – the Martorell factory in Spain. Here we spoke to CEO Juergen Stackmann and executive vice president for research and design Dr. Matthias Rabe about the brand’s future model plans.
+
+Chief amongst these plans is SEAT’s desire to build an SUV – following on from the Tribu concept of 2007 (pictured above), this much touted project has suffered numerous delays and production ‘freezes’ and still isn’t signed off at this stage. But we were shown a brand new full-scale model during our visit, completed just two weeks ago.
+Blog Full Content
+
+See pictures of SEAT SUV prototypes New 2014 Nissan Qashqai revealed in pictures Alongside the SUV, we were also shown preview versions of the SEAT Leon Cupra five-door hot hatch that will debut at the Geneva Motor Show 2014, and the SEAT Lean ST X-perience, an off-road orientated version of the Leon estate that will debut at the Paris Motor Show 2014.
+
+Sadly, such was the hush-hush nature of the meeting we weren’t allow to take any pictures – but we can report what we were shown and told, and you can expect to see the first details of the new cars in the new year.
+
+Is SEAT going to build an SUV? It’s clear that SEAT really, really wants to build an SUV. Stackmann and Rabe believe that a 4x4 is a perfect fit for the company, and will help drive its expansion. SEAT is already the most youthful brand in the Volkswagen Group portfolio, and a fun-to-drive off-roader would only enhance this image.
+
+However, it is also clear that at this stage the SEAT SUV project still hasn’t been given the green light – though a decision is imminent. What will the SEAT SUV be called?
+
+There’s no word on an official name for the SEAT SUV yet, which is hardly surprising given that the project is still in limbo at present. The two-week-old full-size styling model shown to us was labelled Tribu and SE376 (an internal reference designation), with PR2 W50 in smaller text.
+
+But we are assured it won’t be called the Tribu in production, and in truth the model looks closer (though nowhere near identical) to the IBX concept of 2011, rather than the Tribu of 2007. Nor will it make any kind of reference to the Leon name, even though the off-roader will be based on the same underlying VW Group ‘MQB’ platform as the]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>110</wp:post_id>
+		<wp:post_date><![CDATA[2013-12-28 16:35:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2013-12-28 16:35:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonials]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>69</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[attitude_sidebarlayout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6414,6 +6299,40 @@ This will create a space of 22px
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Sample Page</title>
+		<link>http://localhost/tx-demos/i-design/sample-page/</link>
+		<pubDate>Tue, 09 May 2017 03:09:54 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/tx-demos/i-design/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="http://localhost/tx-demos/i-design/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-09 03:09:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-09 03:09:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Testimonials</title>
 		<link>http://localhost/tx-demos/i-design/testimonials/</link>
 		<pubDate>Thu, 29 Jan 2015 09:55:29 +0000</pubDate>
@@ -6497,40 +6416,6 @@ This will create a space of 22px
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_8a4881ee1e9cb1adf4ccfda96a348b7e]]></wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sample Page</title>
-		<link>http://localhost/tx-demos/i-design/sample-page/</link>
-		<pubDate>Tue, 09 May 2017 03:09:54 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-design/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="http://localhost/tx-demos/i-design/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2017-05-09 03:09:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-05-09 03:09:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -7370,236 +7255,6 @@ Warwick, RI 02889
 		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 	<item>
-		<title>Home - Fullscreen Video Slider</title>
-		<link>http://localhost/tx-demos/i-design/home-fullscreen-video-slider/</link>
-		<pubDate>Tue, 09 May 2017 15:04:34 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/?page_id=1022</guid>
-		<description></description>
-		<content:encoded><![CDATA[[tx_spacer size="16"][tx_spacer size="16"]
-[tx_row]
-[tx_column size="1/2"]
-[tx_youtube youtube_url="https://www.youtube.com/watch?v=jhz15NbQqSU" width="" controls="1" autoplay="0"]
-[/tx_column]
-[tx_column size="1/2"]
-<h2 style="font-weight: 500; margin-bottom: 0px; padding-top: 0px; font-size: 26px; line-height: 26px; text-align: left; margin-top: 0px;">Add Power Of Video In Your Pages</h2>
-<span style="font-size: 20px; color: #999;">Fullscreen Video/Image Slider And YouTube Shortcode</span>
-
-We have Added two new shortcodes for the users of <b>WordPress plugin “TemplatesNext Toolkit”</b>. “<b>YouTube</b>” shortcode to emmbeds responsive YouTube Video in your page, while “<b>Fullscreen Video/image slider</b>” adds full screen video or image slider (Hero Slider) in your page header.
-
-Fullscreen <b>“Video/Image Slider”</b> shortcode must be used in <b>wide layout</b>, this shortcode might not work properly in boxed layout. Go premium to for the most powerful slider.
-
-[tx_button style="default" text="Go Premium" url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
-[/tx_column]
-[/tx_row]
-
-[tx_spacer size="48"]
-[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
-<h2 style="text-align: center; font-weight: 500; margin-bottom: 6px; font-size: 26px;">Recent Projects</h2>
-<p style="text-align: center;">Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit</p>
-<p style="text-align: center;">[tx_spacer size="16"]</p>
-[tx_portfolio items="6" columns="3" hide_cat="yes" hide_excerpt="yes" carousel="no"]
-[/tx_fancyblock]
-
-[tx_spacer size="48"]
-
-[tx_row]
-[tx_column size="1/3"]<a href="http://templatesnext.org/ispirit/landing/"><img src="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/mock-1.jpg" alt="i-spirit WordPress Theme" /></a>[/tx_column]
-[tx_column size="2/3"]
-<h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
-i-spirit is a flexible and powerful multipurpose WordPress theme packed full of custom widgets and easy to use content elements that give you control over your page. i-spirit is also fully responsive, meaning that the design will adapt to mobile phones and tablets for a more intuitive browsing experience. If you are looking for an all-in-one solution for your new business, then i-spirit is the theme for you.
-<h4 style="font-weight: 500; margin-bottom: 0px; margin-top: 0px; font-size: 18px; text-align: left;">Features Include</h4>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Responsive And Retina Ready.</li>
- 	<li>CSS3 animations.</li>
-</ul>
-</div>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Revolution Slider.</li>
- 	<li>Redux Framework.</li>
-</ul>
-</div>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Google Fonts.</li>
- 	<li>And much more...</li>
-</ul>
-</div>
-[tx_spacer size="12"]
-[tx_button style="default" text="Know More.." url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
-[/tx_column]
-[/tx_row]
-
-[tx_spacer size="32"]
-[tx_calltoact button_text="Know More.." url="http://www.templatesnext.org/ispirit/landing/"]i-spirit, The mother of all themes[/tx_calltoact]
-
-[tx_spacer size="32"]
-[tx_row]
-<h2 style="font-weight: 500; margin-bottom: 6px; font-size: 26px; text-align: left;">Recent Posts</h2>
-[tx_spacer size="16"]
-[tx_blog items="6" columns="3" showcat="hide" category_id="" carousel="yes"]
-[/tx_row]
-
-[tx_spacer size="32"]
-[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
-[tx_testimonial style="default"]
-[/tx_fancyblock]
-
-[tx_spacer size="24"]
-<div style="text-align: center;">Download i-excel child theme from here <a href="http://www.templatesnext.org/icreate/wp-content/uploads/2016/02/i-excel-child.zip">here</a></div>
-[tx_spacer size="32"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1022</wp:post_id>
-		<wp:post_date><![CDATA[2017-05-09 15:04:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-05-09 15:04:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-fullscreen-video-slider]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_hidetitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_show_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_hide_breadcrumb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_other_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[tx_vslider height="100" reduct="126" vurl="https://www.youtube.com/watch?v=htB-L-4JaFM" overlay="vignette" bgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/1495977.jpg" attachment="fixed" bgsize="cover" imgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2017/05/logo-trans-2.png" title="TEMPLATESNEXT" linktext="Know More.." linkurl="http://www.templatesnext.org/"]Now one of the most popular WordPress Plugin TemplatesNext Toolkit comes with fullscreen video slider. Make sure you have wide layout.[/tx_vslider]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home - Fullscreen Image Slider</title>
-		<link>http://localhost/tx-demos/i-design/home-fullscreen-image-slider/</link>
-		<pubDate>Tue, 09 May 2017 15:05:11 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/tx-demos/i-max/?page_id=1024</guid>
-		<description></description>
-		<content:encoded><![CDATA[[tx_spacer size="16"][tx_spacer size="16"]
-[tx_row]
-[tx_column size="1/2"]
-[tx_youtube youtube_url="https://www.youtube.com/watch?v=jhz15NbQqSU" width="" controls="1" autoplay="0"]
-[/tx_column]
-[tx_column size="1/2"]
-<h2 style="font-weight: 500; margin-bottom: 0px; padding-top: 0px; font-size: 26px; line-height: 26px; text-align: left; margin-top: 0px;">Add Power Of Video In Your Pages</h2>
-<span style="font-size: 20px; color: #999;">Fullscreen Video/Image Slider And YouTube Shortcode</span>
-
-We have Added two new shortcodes for the users of <b>WordPress plugin “TemplatesNext Toolkit”</b>. “<b>YouTube</b>” shortcode to emmbeds responsive YouTube Video in your page, while “<b>Fullscreen Video/image slider</b>” adds full screen video or image slider (Hero Slider) in your page header.
-
-Fullscreen <b>“Video/Image Slider”</b> shortcode must be used in <b>wide layout</b>, this shortcode might not work properly in boxed layout. Go premium to for the most powerful slider.
-
-[tx_button style="default" text="Go Premium" url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
-[/tx_column]
-[/tx_row]
-
-[tx_spacer size="48"]
-[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
-<h2 style="text-align: center; font-weight: 500; margin-bottom: 6px; font-size: 26px;">Recent Projects</h2>
-<p style="text-align: center;">Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit</p>
-<p style="text-align: center;">[tx_spacer size="16"]</p>
-[tx_portfolio items="6" columns="3" hide_cat="yes" hide_excerpt="yes" carousel="no"]
-[/tx_fancyblock]
-
-[tx_spacer size="48"]
-
-[tx_row]
-[tx_column size="1/3"]<a href="http://templatesnext.org/ispirit/landing/"><img src="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/mock-1.jpg" alt="i-spirit WordPress Theme" /></a>[/tx_column]
-[tx_column size="2/3"]
-<h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
-i-spirit is a flexible and powerful multipurpose WordPress theme packed full of custom widgets and easy to use content elements that give you control over your page. i-spirit is also fully responsive, meaning that the design will adapt to mobile phones and tablets for a more intuitive browsing experience. If you are looking for an all-in-one solution for your new business, then i-spirit is the theme for you.
-<h4 style="font-weight: 500; margin-bottom: 0px; margin-top: 0px; font-size: 18px; text-align: left;">Features Include</h4>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Responsive And Retina Ready.</li>
- 	<li>CSS3 animations.</li>
-</ul>
-</div>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Revolution Slider.</li>
- 	<li>Redux Framework.</li>
-</ul>
-</div>
-<div class="tx-col-1-3" style="display: block; float: left;">
-<ul>
- 	<li>Google Fonts.</li>
- 	<li>And much more...</li>
-</ul>
-</div>
-[tx_spacer size="12"]
-[tx_button style="default" text="Know More.." url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
-[/tx_column]
-[/tx_row]
-
-[tx_spacer size="32"]
-[tx_calltoact button_text="Know More.." url="http://www.templatesnext.org/ispirit/landing/"]i-spirit, The mother of all themes[/tx_calltoact]
-
-[tx_spacer size="32"]
-[tx_row]
-<h2 style="font-weight: 500; margin-bottom: 6px; font-size: 26px; text-align: left;">Recent Posts</h2>
-[tx_spacer size="16"]
-[tx_blog items="6" columns="3" showcat="hide" category_id="" carousel="yes"]
-[/tx_row]
-
-[tx_spacer size="32"]
-[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
-[tx_testimonial style="default"]
-[/tx_fancyblock]
-
-[tx_spacer size="24"]
-<div style="text-align: center;">Download i-excel child theme from here <a href="http://www.templatesnext.org/icreate/wp-content/uploads/2016/02/i-excel-child.zip">here</a></div>
-[tx_spacer size="32"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1024</wp:post_id>
-		<wp:post_date><![CDATA[2017-05-09 15:05:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-05-09 15:05:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-fullscreen-image-slider]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_hidetitle]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_show_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_hide_breadcrumb]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[imax_other_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[tx_vslider height="100" reduct="126" vurl="" overlay="pixel" bgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/1495977.jpg" attachment="fixed" bgsize="cover" imgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2017/05/logo-trans-2.png" title="TEMPLATESNEXT" linktext="Know More.." linkurl="http://www.templatesnext.org/"]Now one of the most popular WordPress Plugin TemplatesNext Toolkit comes with fullscreen video slider. Make sure you have wide layout.[/tx_vslider]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Sample Page</title>
 		<link>http://localhost/tx-demos/i-design/sample-page-2/</link>
 		<pubDate>Tue, 09 May 2017 02:55:29 +0000</pubDate>
@@ -8037,116 +7692,6 @@ Pellentesque facilisis feugiat lorem, nec interdum neque iaculis id. Vestibulum 
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>In hac habitasse platea dictumst</title>
-		<link>http://localhost/tx-demos/i-design/2014/01/15/in-hac-habitasse-platea-dictumst/</link>
-		<pubDate>Wed, 15 Jan 2014 12:46:49 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=221</guid>
-		<description></description>
-		<content:encoded><![CDATA[Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit, sit amet ullamcorper lacus mi quis mi. Maecenas dapibus ipsum at urna viverra venenatis. Morbi odio dui, fermentum non est eu, ullamcorper mattis tellus. Praesent eu dignissim felis. Nulla tristique elit quis magna malesuada, at mattis augue congue.
-
-Nulla dignissim eget enim et laoreet. Praesent metus dolor, luctus sit amet arcu a, egestas cursus orci. Suspendisse id dolor quis ligula commodo elementum. Integer eu vulputate est, ac feugiat nibh. Aliquam leo sem, accumsan eu suscipit non, ultrices eget turpis. Etiam eu aliquet nisi. Sed ultricies suscipit sapien, ut cursus dui sodales sit amet. Sed vitae quam id felis placerat facilisis. Nam et aliquet mauris, a malesuada massa. Sed id odio condimentum, consectetur risus sed, mattis ligula.
-
-Mauris sit amet turpis at eros ullamcorper malesuada. Duis eu eros eget erat elementum condimentum. Vestibulum vel urna vel purus tempus laoreet ac ac augue. Fusce molestie est vitae tincidunt vehicula. Mauris sit amet pharetra eros. Sed interdum mattis tellus. Maecenas risus mauris, fermentum a tincidunt vitae, rhoncus sit amet metus.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus interdum felis eu ipsum accumsan, vitae consectetur magna semper. Etiam pellentesque feugiat turpis. Duis fermentum eros a mattis pharetra. Cras porttitor ante ac risus feugiat pretium. Maecenas in nulla ac lacus congue mattis. In hac habitasse platea dictumst.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2014-01-15 12:46:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-01-15 12:46:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[in-hac-habitasse-platea-dictumst]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
-		<category domain="category" nicename="comparison"><![CDATA[Comparison]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[910]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Cras porttitor velit eu sem varius pulvinar</title>
-		<link>http://localhost/tx-demos/i-design/2014/01/15/cras-porttitor-velit-eu-sem-varius-pulvinar/</link>
-		<pubDate>Wed, 15 Jan 2014 12:49:40 +0000</pubDate>
-		<dc:creator><![CDATA[demoadmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=223</guid>
-		<description></description>
-		<content:encoded><![CDATA[Aliquam tristique, metus id rhoncus scelerisque, arcu dolor volutpat est, sed iaculis urna purus et felis. In in lectus placerat diam venenatis auctor a nec ligula. Suspendisse gravida nisl a sapien scelerisque, vitae pharetra nibh facilisis. Duis facilisis tristique lorem vel feugiat. Curabitur egestas mauris at ipsum pulvinar blandit. Cras tempor nunc id massa consequat viverra. Fusce sagittis tempus elit, at sodales leo lobortis non. Aliquam molestie dapibus tellus, non molestie velit elementum ut. Vestibulum vehicula nulla vitae enim dapibus, vel scelerisque elit gravida. Praesent eu dui vitae velit iaculis feugiat nec vel ante.
-
-Nulla commodo lacus ut nibh ultricies pulvinar. Nullam eget faucibus arcu. Vestibulum imperdiet nunc tincidunt quam blandit, pharetra convallis quam condimentum. Nunc quis pulvinar sapien, nec euismod dolor. Cras sapien est, scelerisque adipiscing quam eget, scelerisque ultrices justo. Quisque condimentum et elit ac fermentum. Duis nec est in arcu porta suscipit. Etiam et justo auctor, posuere purus sed, blandit ipsum. Maecenas fermentum sem in enim malesuada euismod. Quisque pulvinar rhoncus urna, quis semper massa congue quis. Maecenas a erat tortor. Curabitur eget lectus aliquet, mattis tortor in, semper ligula.
-
-Sed luctus ipsum felis, quis aliquet nisi pellentesque et. Aliquam erat volutpat. Fusce porttitor nulla mi. Praesent eleifend tincidunt nisl, non eleifend sem viverra eget. Integer aliquet urna sit amet gravida posuere. Donec ultricies tellus nec convallis elementum. Etiam tempus risus arcu, a fermentum urna suscipit viverra. Fusce malesuada lacus a consectetur tincidunt. Curabitur a magna mi.
-
-Nullam ac blandit arcu. Praesent euismod risus felis, eu vehicula erat venenatis quis. Fusce vitae elit at quam tincidunt aliquet. Praesent commodo erat eget fringilla feugiat. Sed ut urna risus. Sed rhoncus feugiat leo in venenatis. Curabitur nisl ante, fermentum vel nisl ut, ultrices tempor libero. Fusce gravida arcu ac aliquam gravida. Suspendisse a bibendum tortor. Nulla viverra lacus arcu, vel commodo risus rhoncus ac. Ut ultricies lorem a sem laoreet faucibus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2014-01-15 12:49:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-01-15 12:49:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[cras-porttitor-velit-eu-sem-varius-pulvinar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="category" nicename="nissan"><![CDATA[Nissan]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_8a4881ee1e9cb1adf4ccfda96a348b7e]]></wp:meta_key>
-			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Aquatic Infrastructure</title>
 		<link>http://localhost/tx-demos/i-design/?portfolio=aquatic-infrastructure</link>
 		<pubDate>Mon, 29 Dec 2014 14:33:38 +0000</pubDate>
@@ -8525,6 +8070,236 @@ Etiam a nibh mauris. Mauris porttitor non felis sit amet lacinia. Aliquam fringi
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_8a4881ee1e9cb1adf4ccfda96a348b7e]]></wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home - Fullscreen Video Slider</title>
+		<link>http://localhost/tx-demos/i-design/home-fullscreen-video-slider/</link>
+		<pubDate>Tue, 09 May 2017 15:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/tx-demos/i-max/?page_id=1022</guid>
+		<description></description>
+		<content:encoded><![CDATA[[tx_spacer size="16"][tx_spacer size="16"]
+[tx_row]
+[tx_column size="1/2"]
+[tx_youtube youtube_url="https://www.youtube.com/watch?v=jhz15NbQqSU" width="" controls="1" autoplay="0"]
+[/tx_column]
+[tx_column size="1/2"]
+<h2 style="font-weight: 500; margin-bottom: 0px; padding-top: 0px; font-size: 26px; line-height: 26px; text-align: left; margin-top: 0px;">Add Power Of Video In Your Pages</h2>
+<span style="font-size: 20px; color: #999;">Fullscreen Video/Image Slider And YouTube Shortcode</span>
+
+We have Added two new shortcodes for the users of <b>WordPress plugin “TemplatesNext Toolkit”</b>. “<b>YouTube</b>” shortcode to emmbeds responsive YouTube Video in your page, while “<b>Fullscreen Video/image slider</b>” adds full screen video or image slider (Hero Slider) in your page header.
+
+Fullscreen <b>“Video/Image Slider”</b> shortcode must be used in <b>wide layout</b>, this shortcode might not work properly in boxed layout. Go premium to for the most powerful slider.
+
+[tx_button style="default" text="Go Premium" url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
+[/tx_column]
+[/tx_row]
+
+[tx_spacer size="48"]
+[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
+<h2 style="text-align: center; font-weight: 500; margin-bottom: 6px; font-size: 26px;">Recent Projects</h2>
+<p style="text-align: center;">Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit</p>
+<p style="text-align: center;">[tx_spacer size="16"]</p>
+[tx_portfolio items="6" columns="3" hide_cat="yes" hide_excerpt="yes" carousel="no"]
+[/tx_fancyblock]
+
+[tx_spacer size="48"]
+
+[tx_row]
+[tx_column size="1/3"]<a href="http://templatesnext.org/ispirit/landing/"><img src="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/mock-1.jpg" alt="i-spirit WordPress Theme" /></a>[/tx_column]
+[tx_column size="2/3"]
+<h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
+i-spirit is a flexible and powerful multipurpose WordPress theme packed full of custom widgets and easy to use content elements that give you control over your page. i-spirit is also fully responsive, meaning that the design will adapt to mobile phones and tablets for a more intuitive browsing experience. If you are looking for an all-in-one solution for your new business, then i-spirit is the theme for you.
+<h4 style="font-weight: 500; margin-bottom: 0px; margin-top: 0px; font-size: 18px; text-align: left;">Features Include</h4>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Responsive And Retina Ready.</li>
+ 	<li>CSS3 animations.</li>
+</ul>
+</div>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Revolution Slider.</li>
+ 	<li>Redux Framework.</li>
+</ul>
+</div>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Google Fonts.</li>
+ 	<li>And much more...</li>
+</ul>
+</div>
+[tx_spacer size="12"]
+[tx_button style="default" text="Know More.." url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
+[/tx_column]
+[/tx_row]
+
+[tx_spacer size="32"]
+[tx_calltoact button_text="Know More.." url="http://www.templatesnext.org/ispirit/landing/"]i-spirit, The mother of all themes[/tx_calltoact]
+
+[tx_spacer size="32"]
+[tx_row]
+<h2 style="font-weight: 500; margin-bottom: 6px; font-size: 26px; text-align: left;">Recent Posts</h2>
+[tx_spacer size="16"]
+[tx_blog items="6" columns="3" showcat="hide" category_id="" carousel="yes"]
+[/tx_row]
+
+[tx_spacer size="32"]
+[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
+[tx_testimonial style="default"]
+[/tx_fancyblock]
+
+[tx_spacer size="24"]
+<div style="text-align: center;">Download i-excel child theme from here <a href="http://www.templatesnext.org/icreate/wp-content/uploads/2016/02/i-excel-child.zip">here</a></div>
+[tx_spacer size="32"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1022</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-09 15:04:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-09 15:04:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-fullscreen-video-slider]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_hidetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_show_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_hide_breadcrumb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_other_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[tx_vslider height="100" reduct="126" vurl="https://www.youtube.com/watch?v=htB-L-4JaFM" overlay="vignette" bgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/1495977.jpg" attachment="fixed" bgsize="cover" imgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2017/05/logo-trans-2.png" title="TEMPLATESNEXT" linktext="Know More.." linkurl="http://www.templatesnext.org/"]Now one of the most popular WordPress Plugin TemplatesNext Toolkit comes with fullscreen video slider. Make sure you have wide layout.[/tx_vslider]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home - Fullscreen Image Slider</title>
+		<link>http://localhost/tx-demos/i-design/home-fullscreen-image-slider/</link>
+		<pubDate>Tue, 09 May 2017 15:05:11 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/tx-demos/i-max/?page_id=1024</guid>
+		<description></description>
+		<content:encoded><![CDATA[[tx_spacer size="16"][tx_spacer size="16"]
+[tx_row]
+[tx_column size="1/2"]
+[tx_youtube youtube_url="https://www.youtube.com/watch?v=jhz15NbQqSU" width="" controls="1" autoplay="0"]
+[/tx_column]
+[tx_column size="1/2"]
+<h2 style="font-weight: 500; margin-bottom: 0px; padding-top: 0px; font-size: 26px; line-height: 26px; text-align: left; margin-top: 0px;">Add Power Of Video In Your Pages</h2>
+<span style="font-size: 20px; color: #999;">Fullscreen Video/Image Slider And YouTube Shortcode</span>
+
+We have Added two new shortcodes for the users of <b>WordPress plugin “TemplatesNext Toolkit”</b>. “<b>YouTube</b>” shortcode to emmbeds responsive YouTube Video in your page, while “<b>Fullscreen Video/image slider</b>” adds full screen video or image slider (Hero Slider) in your page header.
+
+Fullscreen <b>“Video/Image Slider”</b> shortcode must be used in <b>wide layout</b>, this shortcode might not work properly in boxed layout. Go premium to for the most powerful slider.
+
+[tx_button style="default" text="Go Premium" url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
+[/tx_column]
+[/tx_row]
+
+[tx_spacer size="48"]
+[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
+<h2 style="text-align: center; font-weight: 500; margin-bottom: 6px; font-size: 26px;">Recent Projects</h2>
+<p style="text-align: center;">Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit</p>
+<p style="text-align: center;">[tx_spacer size="16"]</p>
+[tx_portfolio items="6" columns="3" hide_cat="yes" hide_excerpt="yes" carousel="no"]
+[/tx_fancyblock]
+
+[tx_spacer size="48"]
+
+[tx_row]
+[tx_column size="1/3"]<a href="http://templatesnext.org/ispirit/landing/"><img src="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/mock-1.jpg" alt="i-spirit WordPress Theme" /></a>[/tx_column]
+[tx_column size="2/3"]
+<h2 style="font-weight: 500; margin-bottom: 16px; margin-top: 0px; font-size: 26px; text-align: left;">i-spirit, Crafted With Love And Passion</h2>
+i-spirit is a flexible and powerful multipurpose WordPress theme packed full of custom widgets and easy to use content elements that give you control over your page. i-spirit is also fully responsive, meaning that the design will adapt to mobile phones and tablets for a more intuitive browsing experience. If you are looking for an all-in-one solution for your new business, then i-spirit is the theme for you.
+<h4 style="font-weight: 500; margin-bottom: 0px; margin-top: 0px; font-size: 18px; text-align: left;">Features Include</h4>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Responsive And Retina Ready.</li>
+ 	<li>CSS3 animations.</li>
+</ul>
+</div>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Revolution Slider.</li>
+ 	<li>Redux Framework.</li>
+</ul>
+</div>
+<div class="tx-col-1-3" style="display: block; float: left;">
+<ul>
+ 	<li>Google Fonts.</li>
+ 	<li>And much more...</li>
+</ul>
+</div>
+[tx_spacer size="12"]
+[tx_button style="default" text="Know More.." url="http://templatesnext.org/ispirit/landing/" color="#95c837" textcolor="#FFFFFF"]
+[/tx_column]
+[/tx_row]
+
+[tx_spacer size="32"]
+[tx_calltoact button_text="Know More.." url="http://www.templatesnext.org/ispirit/landing/"]i-spirit, The mother of all themes[/tx_calltoact]
+
+[tx_spacer size="32"]
+[tx_row]
+<h2 style="font-weight: 500; margin-bottom: 6px; font-size: 26px; text-align: left;">Recent Posts</h2>
+[tx_spacer size="16"]
+[tx_blog items="6" columns="3" showcat="hide" category_id="" carousel="yes"]
+[/tx_row]
+
+[tx_spacer size="32"]
+[tx_fancyblock height="" padding="32" bgcolor="#e7e7e7" overlay="0.0" bgurl="" attachment="fixed" bgsize="cover" fullwidth="yes" ]
+[tx_testimonial style="default"]
+[/tx_fancyblock]
+
+[tx_spacer size="24"]
+<div style="text-align: center;">Download i-excel child theme from here <a href="http://www.templatesnext.org/icreate/wp-content/uploads/2016/02/i-excel-child.zip">here</a></div>
+[tx_spacer size="32"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1024</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-09 15:05:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-09 15:05:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-fullscreen-image-slider]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_hidetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_show_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_hide_breadcrumb]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[imax_other_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[tx_vslider height="100" reduct="126" vurl="" overlay="pixel" bgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2014/02/1495977.jpg" attachment="fixed" bgsize="cover" imgurl="http://www.templatesnext.org/icreate/wp-content/uploads/2017/05/logo-trans-2.png" title="TEMPLATESNEXT" linktext="Know More.." linkurl="http://www.templatesnext.org/"]Now one of the most popular WordPress Plugin TemplatesNext Toolkit comes with fullscreen video slider. Make sure you have wide layout.[/tx_vslider]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9372,6 +9147,116 @@ This e-mail was sent from a contact form on i-design (http://localhost/tx-demos/
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>In hac habitasse platea dictumst</title>
+		<link>http://localhost/tx-demos/i-design/2014/01/15/in-hac-habitasse-platea-dictumst/</link>
+		<pubDate>Wed, 15 Jan 2014 12:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=221</guid>
+		<description></description>
+		<content:encoded><![CDATA[Nunc tristique rutrum euismod. Quisque vestibulum, velit eget tincidunt egestas, dui est varius elit, sit amet ullamcorper lacus mi quis mi. Maecenas dapibus ipsum at urna viverra venenatis. Morbi odio dui, fermentum non est eu, ullamcorper mattis tellus. Praesent eu dignissim felis. Nulla tristique elit quis magna malesuada, at mattis augue congue.
+
+Nulla dignissim eget enim et laoreet. Praesent metus dolor, luctus sit amet arcu a, egestas cursus orci. Suspendisse id dolor quis ligula commodo elementum. Integer eu vulputate est, ac feugiat nibh. Aliquam leo sem, accumsan eu suscipit non, ultrices eget turpis. Etiam eu aliquet nisi. Sed ultricies suscipit sapien, ut cursus dui sodales sit amet. Sed vitae quam id felis placerat facilisis. Nam et aliquet mauris, a malesuada massa. Sed id odio condimentum, consectetur risus sed, mattis ligula.
+
+Mauris sit amet turpis at eros ullamcorper malesuada. Duis eu eros eget erat elementum condimentum. Vestibulum vel urna vel purus tempus laoreet ac ac augue. Fusce molestie est vitae tincidunt vehicula. Mauris sit amet pharetra eros. Sed interdum mattis tellus. Maecenas risus mauris, fermentum a tincidunt vitae, rhoncus sit amet metus.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus interdum felis eu ipsum accumsan, vitae consectetur magna semper. Etiam pellentesque feugiat turpis. Duis fermentum eros a mattis pharetra. Cras porttitor ante ac risus feugiat pretium. Maecenas in nulla ac lacus congue mattis. In hac habitasse platea dictumst.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2014-01-15 12:46:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-01-15 12:46:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[in-hac-habitasse-platea-dictumst]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
+		<category domain="category" nicename="comparison"><![CDATA[Comparison]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[910]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Cras porttitor velit eu sem varius pulvinar</title>
+		<link>http://localhost/tx-demos/i-design/2014/01/15/cras-porttitor-velit-eu-sem-varius-pulvinar/</link>
+		<pubDate>Wed, 15 Jan 2014 12:49:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoadmin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=223</guid>
+		<description></description>
+		<content:encoded><![CDATA[Aliquam tristique, metus id rhoncus scelerisque, arcu dolor volutpat est, sed iaculis urna purus et felis. In in lectus placerat diam venenatis auctor a nec ligula. Suspendisse gravida nisl a sapien scelerisque, vitae pharetra nibh facilisis. Duis facilisis tristique lorem vel feugiat. Curabitur egestas mauris at ipsum pulvinar blandit. Cras tempor nunc id massa consequat viverra. Fusce sagittis tempus elit, at sodales leo lobortis non. Aliquam molestie dapibus tellus, non molestie velit elementum ut. Vestibulum vehicula nulla vitae enim dapibus, vel scelerisque elit gravida. Praesent eu dui vitae velit iaculis feugiat nec vel ante.
+
+Nulla commodo lacus ut nibh ultricies pulvinar. Nullam eget faucibus arcu. Vestibulum imperdiet nunc tincidunt quam blandit, pharetra convallis quam condimentum. Nunc quis pulvinar sapien, nec euismod dolor. Cras sapien est, scelerisque adipiscing quam eget, scelerisque ultrices justo. Quisque condimentum et elit ac fermentum. Duis nec est in arcu porta suscipit. Etiam et justo auctor, posuere purus sed, blandit ipsum. Maecenas fermentum sem in enim malesuada euismod. Quisque pulvinar rhoncus urna, quis semper massa congue quis. Maecenas a erat tortor. Curabitur eget lectus aliquet, mattis tortor in, semper ligula.
+
+Sed luctus ipsum felis, quis aliquet nisi pellentesque et. Aliquam erat volutpat. Fusce porttitor nulla mi. Praesent eleifend tincidunt nisl, non eleifend sem viverra eget. Integer aliquet urna sit amet gravida posuere. Donec ultricies tellus nec convallis elementum. Etiam tempus risus arcu, a fermentum urna suscipit viverra. Fusce malesuada lacus a consectetur tincidunt. Curabitur a magna mi.
+
+Nullam ac blandit arcu. Praesent euismod risus felis, eu vehicula erat venenatis quis. Fusce vitae elit at quam tincidunt aliquet. Praesent commodo erat eget fringilla feugiat. Sed ut urna risus. Sed rhoncus feugiat leo in venenatis. Curabitur nisl ante, fermentum vel nisl ut, ultrices tempor libero. Fusce gravida arcu ac aliquam gravida. Suspendisse a bibendum tortor. Nulla viverra lacus arcu, vel commodo risus rhoncus ac. Ut ultricies lorem a sem laoreet faucibus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2014-01-15 12:49:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-01-15 12:49:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cras-porttitor-velit-eu-sem-varius-pulvinar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="nissan"><![CDATA[Nissan]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_43758b7b3ece52aaaf9c4e22f7c8d611]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_8a4881ee1e9cb1adf4ccfda96a348b7e]]></wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>

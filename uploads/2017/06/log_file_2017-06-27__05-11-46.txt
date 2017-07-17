@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: i-MAX Demo Classic were successfully downloaded!
+Initial max execution time = 1800
+Files info:
+Site URL = http://localhost/tx-demos/i-design
+Data file = E:\xampp2\htdocs\tx-demos\i-design/wp-content/uploads/2017/06/demo-content-import-file_2017-06-27__05-11-46.xml
+Widget file = E:\xampp2\htdocs\tx-demos\i-design/wp-content/uploads/2017/06/demo-widgets-import-file_2017-06-27__05-11-46.json
+Customizer file = E:\xampp2\htdocs\tx-demos\i-design/wp-content/uploads/2017/06/demo-customizer-import-file_2017-06-27__05-11-46.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2017-05-09__12-31-38" (Media)
+
+
+---Importing widgets---
+Main Widget Area : 
+
+NX Recent Posts - NX Recent Posts - Imported
+NX Recent Comments - NX Recent Comments - Imported
+NX Portfolio Grid - NX Recent Portfolio - Imported
+Text - Quick Contact - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
