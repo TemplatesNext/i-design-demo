@@ -1,0 +1,178 @@
+a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:24:{i:0;b:0;s:18:"custom_css_post_id";i:1099;s:11:"show_search";b:1;s:11:"slider_stat";b:1;s:19:"itrans_slide1_title";s:35:"Welcome To WordPress Theme i-Design";s:22:"itrans_slide1_linktext";s:11:"Know More..";s:21:"itrans_slide1_linkurl";s:38:"http://www.templatesnext.org/i-design/";s:18:"itrans_slide1_desc";s:145:"i-design is a beautiful and flexible theme with several premium features including fullscreen slider, portfolio, testimonial, team members, etc. ";s:19:"itrans_slide2_title";s:20:"One Click Demo Setup";s:22:"itrans_slide2_linktext";s:9:"Know More";s:21:"itrans_slide2_linkurl";s:29:"http://www.templatesnext.org/";s:18:"itrans_slide2_desc";s:141:"I-Design comes with "One Click Demo Setup" to help you kickstart your website from one of our demo website, instead of starting from scratch.";s:19:"itrans_slide3_title";s:32:"TemplatesNext Toolkit Shortcodes";s:22:"itrans_slide3_linktext";s:9:"Know More";s:21:"itrans_slide3_linkurl";s:49:"http://www.templatesnext.org/icreate/?page_id=541";s:18:"itrans_slide3_desc";s:108:"TemplatesNext Toolkit is a plugin to help you create beautiful pages with sliders, services, portfolios etc.";s:19:"itrans_slide4_title";s:27:"Extremely Easy To Customize";s:18:"itrans_slide4_desc";s:115:"I-Design is probably the easiest theme to customize with shortcuts to customizer controls from live preview screen.";s:22:"itrans_slide4_linktext";s:9:"Know More";s:21:"itrans_slide4_linkurl";s:45:"http://www.templatesnext.org/ispirit/landing/";s:18:"nav_menu_locations";a:1:{s:7:"primary";i:55;}s:11:"custom_logo";i:1073;s:10:"logo-trans";s:82:"http://localhost/tx-demos/i-design/wp-content/uploads/2017/06/i-design-reverse.png";s:10:"pre_loader";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:4379:".pb-home .site-header .headerinnerwrap a.home-link > span > img {
+	display: none;
+}
+
+.pb-home .site-header .headerinnerwrap a.home-link > span {
+	display: block;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-image: url( 'http://templatesnext.org/downloads/others/i-design-logo-green-rev.png' );
+	background-repeat: no-repeat;
+	padding-left: 280px;
+	background-position: 0px 12px;
+}
+
+.pb-home .site-header.fixeddiv .headerinnerwrap a.home-link > span {
+	background-image: url( 'http://templatesnext.org/downloads/others/i-design-logo-green-nor.png' );	
+	background-position: 0px 6px;
+	background-size: auto 52px;	
+}
+
+.pb-home .utilitybar.colored-bg {
+	background-color: #b1d235;
+}
+
+.pb-home .nav-container li:hover > a, 
+.pb-home .nav-container li a:hover {
+	color: #b1d235;	
+}
+
+.pb-home .nav-container .sub-menu,
+.pb-home .nav-container .children {
+	border-top: 2px solid #b1d235;
+	border-bottom-color: #b1d235;	
+}
+
+.pb-home .tx-slider .owl-controls .owl-buttons .owl-next, 
+.pb-home .tx-slider .owl-controls .owl-buttons .owl-prev {
+	background-color: #b1d235;
+}
+
+.pb-home .site-footer .widget-area .widget input[type="submit"], 
+.pb-home .site .tx-slider .tx-slide-button a, 
+.pb-home .ibanner .da-slider .owl-item.active .da-link {
+	background-color: #b1d235;
+	color: #ffffff;
+}
+
+.pb-home .utilitybar.colored-bg,
+.pb-home .tx-slider .owl-pagination .owl-page > span {
+	border-color: #b1d235;
+
+}
+
+.pb-home .tx-slider .owl-pagination .owl-page.active > span {
+	background-color: #b1d235;
+}
+
+.pb-home .tx-service-icon span  {
+	border-color: #e7e7e7;
+}
+
+.pb-home .tx-service:hover .tx-service-icon span  {
+	border-color: #b1d235;
+}
+
+.pb-home .tx-service .tx-service-icon span {
+	background-color: #b1d235;
+}
+
+.pb-home .tx-service:hover .tx-service-icon span {
+	background-color: #fff;
+}
+
+.pb-home .tx-service .tx-service-icon span i {
+	color: #fff;
+}
+
+.pb-home .tx-service:hover .tx-service-icon span i {
+	color: #b1d235;
+}
+
+.pb-home .iheader, 
+.pb-home .format-status {
+	background-color: #b1d235;
+}
+
+.pb-home .widget a:hover {
+	color: #b1d235;
+}
+
+.pb-home .blog-columns .comments-link a:hover, 
+.pb-home .utilitybar.colored-bg .socialicons ul.social li a:hover .socico {
+ 	color: #b1d235;
+}
+
+/* Line 102 */
+.pb-home .entry-meta a, 
+.pb-home .entry-content a, 
+.pb-home .comment-content a, 
+.pb-home .entry-content a:visited {
+	color: #b1d235;
+}
+
+/* Line 102 */
+.pb-home .comment-author .fn, 
+.pb-home .comment-author .url, 
+.pb-home .comment-reply-link, 
+.pb-home .comment-reply-login, 
+.pb-home .comment-body .reply a, 
+.pb-home .widget a:hover {
+	color: #b1d235;
+}
+
+.pb-home .widget a:hover, 
+.pb-home .entry-header h1.entry-title a:hover, 
+.pb-home .error404 .page-title::before, 
+.pb-home .tx-service-icon span i, 
+.pb-home .tx-post-comm::after {
+	color: #b1d235;
+}
+
+.pb-home button, 
+.pb-home input[type="submit"], 
+.pb-home input[type="button"], 
+.pb-home input[type="reset"], 
+.pb-home .nav-container .current_page_item > a > span, 
+.pb-home .nav-container .current_page_ancestor > a > span, 
+.pb-home .nav-container .current-menu-item > a span, 
+.pb-home .nav-container .current-menu-ancestor > a > span, 
+.pb-home .nav-container li a:hover span {
+	background-color: #b1d235;
+}
+
+.pb-home .colored-drop .nav-container ul ul a, 
+.pb-home .colored-drop ul.nav-container ul a, 
+.pb-home .colored-drop ul.nav-container ul, 
+.pb-home .colored-drop .nav-container ul ul {
+	background-color: #b1d235;	
+}
+
+.pb-home .colored-drop .nav-container ul ul a:hover, 
+.pb-home .colored-drop ul.nav-container ul a:hover, 
+.pb-home .colored-drop ul.nav-container ul:hover, 
+.pb-home .colored-drop .nav-container ul ul:hover {
+	background-color: #333;	
+}
+
+.pb-home .site-footer div.widget-area .widget a:hover, 
+.pb-home .site-header:not(.fixeddiv) .nav-container .nav-menu > li > a:hover {
+	bcolor: #b1d235;	
+}
+
+
+.pb-home .sticky-popup .popup-header {
+	background-color: #b1d235;
+	border-color: #b1d235;
+}
+
+.pb-home .owl-item .tx-slide-title {
+	text-transform: uppercase;
+}
+
+.pb-home .nx-ispload,
+.pb-home .tx-slider-img,
+.pb-home .nx-ispload-wrap {
+	background-color: #b1d235;	
+}
+.pb-home .nx-ispload {
+	background-color: #b1d235!important;		
+}
+
+.pb-home .headerwrap .main-navigation .nav-container ul.nav-menu > li:hover > a {
+	color: #b1d235;	
+}
+.pb-home .headerwrap .main-navigation .nav-container ul.nav-menu > li > ul li:hover a {
+	background-color: #b1d235;	
+}
+";}
