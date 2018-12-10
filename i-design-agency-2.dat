@@ -1,4 +1,4 @@
-a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:70;}s:18:"custom_css_post_id";i:1878;s:8:"mmode_bg";a:6:{s:16:"background-color";s:17:"rgba(20,20,20,.8)";s:16:"background-image";s:79:"http://templatesnext.org/idesign/wp-content/themes/i-design/images/bg-7.jpg";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:11:"custom_logo";i:1840;s:10:"logo-trans";s:87:"https://raw.githubusercontent.com/TemplatesNext/i-design-demo/master/uploads/2018/09/logo-creative-1-w-1.png";s:19:"itrans_slide1_title";s:82:"&lt;span class=&quot;themecolor&quot;&gt;DRAG &amp; DROP&lt;/span&gt; PAGE BUILDER";s:13:"primary_color";s:7:"#00bcd4";s:13:"slider_height";s:2:"72";s:13:"slider_reduct";s:2:"32";s:19:"itrans_slide2_title";s:20:"ONE CLICK DEMO SETUP";s:19:"itrans_slide3_title";s:21:"TEMPLATESNEXT TOOLKIT";s:11:"show_search";b:0;s:11:"slider_ubar";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2372:".owl-item .tx-slide-title {
+a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:16:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:46;}s:18:"custom_css_post_id";i:1878;s:8:"mmode_bg";a:6:{s:16:"background-color";s:17:"rgba(20,20,20,.8)";s:16:"background-image";s:77:"http://localhost/tx-demos/i-design/wp-content/themes/i-design/images/bg-7.jpg";s:17:"background-repeat";s:6:"repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:11:"custom_logo";i:1921;s:10:"logo-trans";s:84:"http://www.wp-demos.com/blank/wp-content/uploads/2018/09/i-design-logo-red-white.png";s:19:"itrans_slide1_title";s:82:"&lt;span class=&quot;themecolor&quot;&gt;DRAG &amp; DROP&lt;/span&gt; PAGE BUILDER";s:22:"itrans_social_facebook";s:37:"http://www.facebook.com/templatesnext";s:21:"itrans_social_twitter";s:36:"http://www.twitter.com/templatesnext";s:20:"itrans_social_flickr";s:35:"http://www.flickr.com/templatesnext";s:23:"itrans_social_instagram";s:38:"http://www.instagram.com/templatesnext";s:18:"itrans_social_feed";s:0:"";s:24:"itrans_social_googleplus";s:36:"http://plus.google.com/templatesnext";s:21:"itrans_social_youtube";s:22:"http://www.youtube.com";s:23:"itrans_social_pinterest";s:0:"";s:22:"itrans_social_linkedin";s:0:"";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2372:".owl-item .tx-slide-title {
 	text-transform: uppercase;
 }
 
@@ -28,7 +28,28 @@ a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locat
 	z-index: 1;	
 } 
 
-.agency-2-overlay:after,
+.whiteoverlay1 {
+	position: relative;
+}
+.whiteoverlay1 > div {
+	position: relative;
+	z-index: 2;
+} 
+
+.whiteoverlay1:after {
+	position: relative;
+	position: absolute;
+	content: " ";
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(255,255,255,0.9);
+	z-index: 1;	
+} 
+
 .agency-2 .sow-slider-images li:before {
 	position: absolute;
 	left: 0px;
@@ -37,7 +58,11 @@ a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locat
 	bottom: 0px;
 	content: " ";
     background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
-	opacity: 0.92;	
+    background: -o-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -ms-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -moz-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -webkit-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+		opacity: 0.92;	
 }
 
 .agency-2 .sow-slider-images .sow-hero-buttons a:hover span {
@@ -51,6 +76,24 @@ a:4:{s:8:"template";s:8:"i-design";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locat
 	position: relative;
 	z-index: 2;
 } 
+.agency-2-overlay:after {
+	position: relative;
+	position: absolute;
+	content: " ";
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+	height: 100%;
+	width: 100%;
+    background: linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -o-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -ms-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -moz-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+    background: -webkit-linear-gradient(-45deg,#006cff 0%,#9012fe 50%,#e9168c 100%);
+	opacity: 0.9;
+} 
+
 .agency-2 .agency-2-wiredbut .so-widget-sow-button a:hover span {
 	color: #333333;
 }";}
